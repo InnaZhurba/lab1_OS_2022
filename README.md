@@ -19,5 +19,5 @@ ZIP: brew install zip <br>
 ### Results
 
 Example of the output: <br>
-![results](./Screenshot 2022-09-16 at 10.00.56 PM.png?raw=true)
+![results](./screenshot.png?raw=true)
 
